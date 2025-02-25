@@ -5,7 +5,7 @@ const timelineData = [
         description: "On October 29, 1969, the first message was sent between computers at UCLA and Stanford Research Institute, creating the foundation of what would become the internet. This historic connection established the first node-to-node communication of the ARPANET network.",
         impact: "This milestone created the technical foundation for all future digital networking, establishing the revolutionary concept of decentralized computer communication. ARPANET demonstrated that computers could be interconnected to share resources and information across distances.",
         ethical: "ARPANET was initially designed and funded for military purposes during the Cold War, raising early questions about the military-industrial complex's role in technological development and the potential dual-use nature of communication technologies.",
-        image: "https://media.wired.com/photos/59326c5e44db296121d6a050/master/w_1600,c_limit/charley-kline-ucla-arp.jpg",
+        image: "https://samueli.ucla.edu/wp-content/uploads/samueli/Kleinrock-2-2011.png",
         icon: "fas fa-network-wired"
     },
     {
