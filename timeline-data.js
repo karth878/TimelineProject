@@ -14,7 +14,7 @@ const timelineData = [
         description: "Computer engineer Ray Tomlinson sent the first network email in late 1971, choosing the @ symbol to separate the user name from the host computer, a convention that continues today. The first message was a test and likely included just random characters or the upper row of the keyboard.",
         impact: "Email revolutionized communication by enabling instant, asynchronous messaging across distances, transforming both personal and business interaction. It became the first killer application of the early internet, driving adoption of networking technology.",
         ethical: "Email began blurring boundaries between work and personal life as communication became constant and immediate. It raised early questions about privacy in digital communications and established patterns for how electronic messaging would be treated legally.",
-        image: "https://www.computerhope.com/jargon/r/ray-tomlinson.jpg",
+        image: "https://i0.wp.com/blog.zamzar.com/wp-content/uploads/2019/06/Ray-Tomlinson-4.png",
         icon: "fas fa-envelope"
     },
     {
@@ -23,7 +23,7 @@ const timelineData = [
         description: "On January 1, 1983, ARPANET officially switched to the Transmission Control Protocol/Internet Protocol (TCP/IP), creating a standardized method for different computer networks to communicate. This 'flag day' marked the transition to the protocol suite that still powers the internet today.",
         impact: "This standardization is often considered the true 'birth of the internet' as we know it today. TCP/IP enabled the global interconnection of disparate networks into a cohesive system, creating the technical foundation for worldwide computer networking.",
         ethical: "The adoption of TCP/IP raised early questions about who should govern global network standards and resources. It highlighted tensions between American control over core internet infrastructure and the increasingly international nature of the network.",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/TCP_IP_stack_connections.svg/1200px-TCP_IP_stack_connections.svg.png",
+        image: "https://miro.medium.com/v2/resize:fit:1400/1*qKYppwKYM_BRRXqLiT3bGQ.jpeg",
         icon: "fas fa-project-diagram"
     },
     {
@@ -32,7 +32,7 @@ const timelineData = [
         description: "While working at CERN in Switzerland, British computer scientist Tim Berners-Lee proposed an information management system that would become the World Wide Web. He developed the core components: HTTP, HTML, URLs, and the first web browser and server software.",
         impact: "Berners-Lee's invention transformed the internet from a primarily academic and government network into an accessible information system for non-technical users. The web created a platform for publishing, sharing, and accessing information that would grow explosively over the next decades.",
         ethical: "Even at its inception, the web raised questions about information control, centralization, and access equality. Berners-Lee deliberately chose not to patent his invention, ensuring it would remain free and open for everyone to use and build upon.",
-        image: "https://web30.web.cern.ch/sites/web30.web.cern.ch/files/inline-images/first-website.png",
+        image: "https://static.scientificamerican.com/sciam/cache/file/B5FBB89E-6314-478B-80496FBE53AF8591_source.jpg",
         icon: "fas fa-globe"
     },
     {
@@ -41,7 +41,7 @@ const timelineData = [
         description: "The National Center for Supercomputing Applications (NCSA) released the Mosaic web browser, developed primarily by Marc Andreessen and Eric Bina. Unlike earlier text-based browsers, Mosaic featured a graphical user interface that could display images inline with text, making the web visually engaging.",
         impact: "Mosaic democratized internet access by providing an intuitive interface anyone could use, triggering explosive growth in web usage. Within 18 months of its release, web traffic increased by 10,000%. Mosaic's design influenced all subsequent browsers and helped catalyze the dot-com boom.",
         ethical: "The popularization of the web through Mosaic began early digital divide issues, separating those with access to this new technology from those without. It also raised questions about content regulation as the web became accessible to broader populations including children.",
-        image: "https://upload.wikimedia.org/wikipedia/en/b/b7/NCSA_Mosaic_Browser_Screenshot.png",
+        image: "https://media.wired.com/photos/59344b215321273fc0f91cd1/master/pass/mos-10.jpg",
         icon: "fas fa-window-maximize"
     },
     {
@@ -50,7 +50,7 @@ const timelineData = [
         description: "In 1995, Jeff Bezos launched Amazon.com as an online bookstore operating from his garage, while Pierre Omidyar created AuctionWeb (later renamed eBay), establishing a person-to-person online auction site. These platforms pioneered e-commerce business models that would transform retail.",
         impact: "These platforms revolutionized retail by creating digital marketplaces that connected buyers and sellers across vast distances, changing consumer shopping habits and business models forever. They demonstrated the commercial viability of the web and helped establish online shopping as mainstream.",
         ethical: "The rise of e-commerce began the disruption of traditional retail, with eventual impacts on local businesses, jobs, and community structures. Amazon in particular would raise later questions about market power, working conditions, and the concentration of economic influence in digital platforms.",
-        image: "https://www.historyofinformation.com/images/4231b%20Large.jpg",
+        image: "https://media.licdn.com/dms/image/v2/C4D12AQFuJ5oPyq7yNw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1642908947239?e=2147483647&v=beta&t=VFoUJ5Oole9lCGgU5DQZPBDeD7vAoGOovAMXY6PCaIA",
         icon: "fas fa-shopping-cart"
     },
     {
@@ -59,7 +59,7 @@ const timelineData = [
         description: "Stanford University Ph.D. students Larry Page and Sergey Brin launched Google with its revolutionary PageRank algorithm, which ranked websites based on how many other sites linked to them. This approach dramatically improved search quality over existing engines that relied primarily on keyword matching.",
         impact: "Google democratized information access by making the vast and growing knowledge on the web searchable and discoverable. Its superior search technology quickly made it the dominant gateway to online information, fundamentally changing how people find and consume information.",
         ethical: "Google's success began the concentration of information gatekeeping power in corporate hands and raised questions about search neutrality. The company's eventual business model based on targeted advertising would establish surveillance capitalism as the dominant economic model of the web.",
-        image: "https://www.gstatic.com/about/images/history/19981.jpg",
+        image: "https://i.redd.it/51o0jo9j2vqb1.jpg",
         icon: "fab fa-google"
     },
     {
@@ -68,7 +68,7 @@ const timelineData = [
         description: "On January 15, 2001, Jimmy Wales and Larry Sanger launched Wikipedia as a free, collaborative encyclopedia that anyone could edit. Based on wiki software that allowed easy collaboration, the platform embodied the web's potential for mass participation in knowledge creation.",
         impact: "Wikipedia democratized knowledge creation and access, challenging traditional encyclopedias and institutional authority over information. It demonstrated the power of mass collaboration on the internet and became one of the world's most visited websites, available in hundreds of languages.",
         ethical: "Wikipedia's open editing model raised persistent questions about accuracy, reliability, and the potential for misinformation in collaborative knowledge platforms. It also sparked debates about expertise, credibility, representation biases, and who gets to define accepted knowledge.",
-        image: "https://upload.wikimedia.org/wikipedia/en/8/8e/Wikipedia_main_page_20010816.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/EnwikipediaArt.PNG/400px-EnwikipediaArt.PNG",
         icon: "fab fa-wikipedia-w"
     },
     {
@@ -77,7 +77,7 @@ const timelineData = [
         description: "Harvard sophomore Mark Zuckerberg launched 'TheFacebook' from his college dorm room on February 4, 2004. Initially restricted to Harvard students, the social networking service gradually expanded to other universities before opening to the general public in 2006.",
         impact: "Facebook transformed social interactions online, created new forms of community building, and changed how people maintain relationships across distances. It introduced the concept of the digital social graph and built a platform that would eventually connect billions of users worldwide.",
         ethical: "Facebook introduced unprecedented privacy challenges and began the era of surveillance capitalism through systematic data collection about users' social connections, preferences, and behaviors. It would later face criticism for facilitating filter bubbles, political polarization, and misinformation.",
-        image: "https://www.cnet.com/a/img/resize/619a6d6de72ef80756477b39ab757f2a988354e2/hub/2014/02/03/3cee65b2-a645-11e3-a24e-d4ae52e62bcc/facebook.jpg?auto=webp&width=1200",
+        image: "https://i.insider.com/665f630b1cd3b17790434272?width=800&format=jpeg&auto=webp",
         icon: "fab fa-facebook"
     },
     {
