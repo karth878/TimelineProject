@@ -86,7 +86,7 @@ const timelineData = [
         description: "On January 9, 2007, Apple CEO Steve Jobs unveiled the first iPhone, combining phone functionality with internet access and application capabilities in a revolutionary touchscreen device. The product launched on June 29, 2007, with people lining up for days to purchase it.",
         impact: "The iPhone fundamentally shifted internet usage from desktop to mobile, making digital connectivity truly ubiquitous and constantly accessible. It transformed computing from a stationary activity to an always-available resource, changed user interface expectations, and created the app economy.",
         ethical: "The rise of smartphones led to concerns about digital addiction, constant connectivity, and work-life balance disruption. The app ecosystem created new privacy vulnerabilities through location tracking and continuous data collection. Smartphone manufacturing raised questions about labor practices and resource extraction.",
-        image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Steve_Jobs_iPhone_Macworld_2007.jpg",
+        image: "https://i.insider.com/587374fadd0895e1148b47e7?width=600&format=jpeg&auto=webp",
         icon: "fas fa-mobile-alt"
     },
     {
@@ -95,7 +95,7 @@ const timelineData = [
         description: "Beginning in late 2010 and continuing through 2011, popular uprisings swept across Tunisia, Egypt, Libya, Yemen, Syria, and other Middle Eastern and North African countries. Social media platforms including Facebook, Twitter, and YouTube played a crucial role in organizing protests and sharing information.",
         impact: "The Arab Spring demonstrated the political power of social media to coordinate mass movements and challenge authoritarian regimes. It showed how internet platforms could facilitate horizontal organization, bypass traditional media censorship, and rapidly spread revolutionary sentiment.",
         ethical: "The events revealed the dual potential of social platforms for both democratic organizing and subsequent surveillance or censorship. It raised questions about the responsibilities of technology companies whose tools were being used in political movements, and the complex relationship between digital technologies and democratic change.",
-        image: "https://cdn.cfr.org/sites/default/files/styles/full_width_xl/public/image/2020/12/20110729_CairoProtest.jpg",
+        image: "https://farm5.static.flickr.com/4075/5410984464_69c9608e84.jpg",
         icon: "fas fa-users"
     },
     {
@@ -104,7 +104,7 @@ const timelineData = [
         description: "During the 2016 U.S. presidential election, coordinated disinformation campaigns and viral falsehoods spread rapidly across social media platforms, reaching millions of users. Fabricated stories, often optimized for engagement, earned more shares and interactions than factual reporting from traditional news sources.",
         impact: "This crisis highlighted the vulnerability of digital information ecosystems to manipulation and the challenge of verifying online information. It demonstrated how the business models of major platforms could unintentionally amplify false content, affecting public discourse and potentially democratic processes.",
         ethical: "The fake news crisis exposed how social media algorithms can create filter bubbles and promote divisive or false content simply because it generates engagement. It raised fundamental questions about platform responsibility, the economics of digital media, and the balance between free expression and information quality.",
-        image: "https://ichef.bbci.co.uk/news/976/cpsprodpb/10646/production/_110000268_mediamanipulation_reuters_comp.jpg",
+        image: "https://live-production.wcms.abc-cdn.net.au/d93602b3419f54b3cc1134512e2cda6f?impolicy=wcms_crop_resize&cropH=1594&cropW=2837&xPos=85&yPos=77&width=862&height=485",
         icon: "fas fa-newspaper"
     },
     {
