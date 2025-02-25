@@ -78,7 +78,6 @@
 
 **Ethical/Societal Concern:** The rise of smartphones led to concerns about digital addiction, constant connectivity, and work-life balance disruption. The app ecosystem created new privacy vulnerabilities, while the growing expectation of constant availability raised questions about attention spans and mental health.
 
-**Suggested Graphic:** A photograph from Steve Jobs' original iPhone keynote presentation showing him holding the device, or an image of the first iPhone displaying its revolutionary touch interface.
 
 ## 2011: Arab Spring
 **Description:** Beginning in late 2010 and continuing through 2011, popular uprisings swept across Tunisia, Egypt, Libya, Yemen, Syria, and other Middle Eastern and North African countries. Social media platforms, particularly Facebook and Twitter, played a crucial role in organizing protests, sharing information, and broadcasting events to the world when traditional media was censored.
@@ -87,7 +86,6 @@
 
 **Ethical/Societal Concern:** The events revealed the dual potential of social platforms for both democratic organizing and subsequent surveillance or censorship. It raised questions about the responsibilities of American tech companies operating in authoritarian contexts and highlighted how quickly regimes could adapt to monitor and counter online activism.
 
-**Suggested Graphic:** A journalistic photograph of protesters in Tahrir Square holding phones to document the demonstrations, or images of social media posts that helped mobilize participants during the uprisings.
 
 ## 2016: Fake News Crisis
 **Description:** During the 2016 U.S. presidential election, coordinated disinformation campaigns and viral falsehoods spread rapidly across social media platforms, reaching millions of users. Fabricated stories, often designed to provoke outrage and engagement, competed with legitimate journalism for attention, while foreign actors exploited platform vulnerabilities to influence public opinion.
@@ -96,16 +94,12 @@
 
 **Ethical/Societal Concern:** The fake news crisis exposed how social media algorithms can create filter bubbles and promote divisive or false content simply because it generates engagement. It raised fundamental questions about platform responsibility, the economics of digital publishing, and the tension between free expression and information integrity.
 
-**Suggested Graphic:** A news headline or screenshot showing a prominent fake news story from 2016 alongside its factual debunking, or a visualization showing how misleading content spread through social networks.
-
 ## 2018: GDPR Implementation
 **Description:** On May 25, 2018, the European Union implemented the General Data Protection Regulation (GDPR), the most comprehensive privacy legislation to date. The law established new requirements for how organizations must handle personal data, including explicit consent requirements, data portability rights, and the right to erasure ("right to be forgotten").
 
 **Impact:** GDPR established new global standards for data privacy, forcing companies worldwide to revise their data collection and processing policies. It represented the first major regulatory challenge to the data-driven business models of internet giants and empowered users with unprecedented control over their personal information.
 
-**Ethical/Societal Concern:** The implementation highlighted the tension between data-driven business models and individual privacy rights. It raised questions about whether meaningful consent is possible in complex digital environments and sparked debate about the proper balance between innovation and privacy protection.
-
-**Suggested Graphic:** A photograph showing the wave of GDPR compliance pop-ups and notices that appeared across websites in May 2018, or an official EU diagram explaining GDPR rights and requirements.
+**Ethical/Societal Concern:** The implementation highlighted the tension between data-driven business models and individual privacy rights. It raised questions about whether meaningful consent is possible in complex digital environments and sparked debate about the proper balance between innovation and privacy protec
 
 ## 2023: Generative AI Goes Mainstream
 **Description:** In late 2022 and throughout 2023, generative AI tools like ChatGPT, DALL-E, and Midjourney became widely available to the general public, demonstrating unprecedented capabilities in language processing, content creation, and image generation. These tools rapidly gained millions of users and began transforming workflows across numerous industries.
@@ -113,5 +107,3 @@
 **Impact:** Generative AI began transforming creative processes, content creation, and knowledge work across sectors including education, media, software development, design, and customer service. This technology democratized access to powerful creation tools while simultaneously disrupting established creative professions and workflows.
 
 **Ethical/Societal Concern:** The rapid adoption of generative AI raised significant questions about copyright infringement, as these systems were trained on vast datasets of human-created works without explicit permission. Additionally, concerns emerged about job displacement, misinformation potential, algorithmic bias, and the future of human creativity in an AI-augmented world.
-
-**Suggested Graphic:** A photograph of a public demonstration of generative AI tools at a conference or educational setting, or a screenshot of ChatGPT's interface showing its conversational capabilities (using an official press image, not AI-generated content).
