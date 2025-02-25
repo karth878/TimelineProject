@@ -1,2 +1,2 @@
 # TimelineProject
-Its just a github pagest project for school. 
+Its just a github pages project for school. 
