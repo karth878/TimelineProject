@@ -7,7 +7,6 @@
 
 **Ethical/Societal Concern:** ARPANET was initially designed and funded for military purposes during the Cold War, raising early questions about the military-industrial complex's role in technological innovation and the dual-use nature of communication technologies.
 
-**Suggested Graphic:** An authentic photograph of the original Interface Message Processor (IMP) at UCLA, or the handwritten log from October 29, 1969, showing the first message attempt.
 
 ## 1971: First Email Sent
 **Description:** Computer engineer Ray Tomlinson sent the first network email in late 1971, choosing the @ symbol to separate the user name from the host computer, a convention that continues today. This innovation allowed messages to be directed to specific individuals on other computers, a dramatic improvement over previous systems where messages could only be left for other users on the same machine.
@@ -16,7 +15,6 @@
 
 **Ethical/Societal Concern:** Email began blurring boundaries between work and personal life as communication became constant and immediate. It raised early questions about privacy in digital communications and introduced the possibility of remote monitoring of correspondence.
 
-**Suggested Graphic:** A portrait photograph of Ray Tomlinson at his terminal, or a screenshot of an early email interface showing the pioneering use of the @ symbol.
 
 ## 1983: TCP/IP Standardization
 **Description:** On January 1, 1983, ARPANET officially switched to the Transmission Control Protocol/Internet Protocol (TCP/IP), creating a standardized method for different computer networks to communicate with each other. This "flag day" transition represented years of development and testing to create a truly universal networking language.
@@ -25,7 +23,6 @@
 
 **Ethical/Societal Concern:** The adoption of TCP/IP raised early questions about who should govern global network standards and resources. It highlighted tensions between American control over core internet infrastructure and the increasingly international nature of the network.
 
-**Suggested Graphic:** A network topology map from 1983 showing the ARPANET structure after TCP/IP implementation, or a historical photograph of Jon Postel, Vint Cerf, or other TCP/IP developers.
 
 ## 1989: World Wide Web Invented
 **Description:** While working at CERN in Switzerland, British computer scientist Tim Berners-Lee proposed an information management system that would become the World Wide Web. He developed the core components including HTML (HyperText Markup Language), HTTP (HyperText Transfer Protocol), and the concept of URLs (Uniform Resource Locators), creating a system for linking and accessing documents across the internet.
@@ -34,7 +31,6 @@
 
 **Ethical/Societal Concern:** Even at its inception, the web raised questions about information control, centralization, and access equality. Berners-Lee deliberately chose not to patent his invention, raising important questions about the commercialization of fundamental internet technologies.
 
-**Suggested Graphic:** Tim Berners-Lee's original diagram of the World Wide Web concept, or a photograph of the NEXT computer on which he developed the first web server.
 
 ## 1993: Mosaic Web Browser Released
 **Description:** The National Center for Supercomputing Applications (NCSA) released the Mosaic web browser, developed primarily by Marc Andreessen and Eric Bina. Unlike earlier text-based browsers, Mosaic featured a graphical user interface, inline images, and other user-friendly features that made the web accessible to non-technical users for the first time.
@@ -43,8 +39,6 @@
 
 **Ethical/Societal Concern:** The popularization of the web through Mosaic began early digital divide issues, separating those with access to this new technology from those without. It also raised questions about how commercialization would shape the previously non-commercial internet.
 
-**Suggested Graphic:** An authentic screenshot of the original NCSA Mosaic browser interface displaying an early webpage, showing its revolutionary graphical capabilities.
-
 ## 1995: Amazon and eBay Launch
 **Description:** In 1995, Jeff Bezos launched Amazon.com as an online bookstore operating from his garage, while Pierre Omidyar created AuctionWeb (later renamed eBay), establishing a person-to-person online marketplace. These pioneering e-commerce platforms created new retail models that would eventually transform global commerce.
 
@@ -52,7 +46,6 @@
 
 **Ethical/Societal Concern:** The rise of e-commerce began the disruption of traditional retail, with eventual impacts on local businesses, jobs, and community structures. Amazon in particular would raise concerns about market consolidation and labor practices in warehouse facilities.
 
-**Suggested Graphic:** A photograph of Amazon's original homepage from 1995 showing the "Earth's Biggest Bookstore" slogan, or an image of eBay's first auctioned item (a broken laser pointer).
 
 ## 1998: Google Founded
 **Description:** Stanford University Ph.D. students Larry Page and Sergey Brin launched Google with its revolutionary PageRank algorithm, which ranked websites based on how many other sites linked to them rather than just keyword frequency. This approach dramatically improved search relevance at a time when finding information online was becoming increasingly difficult due to rapid web growth.
@@ -61,7 +54,6 @@
 
 **Ethical/Societal Concern:** Google's success began the concentration of information gatekeeping power in corporate hands and raised questions about search neutrality. The company's eventual business model based on targeted advertising would raise significant privacy concerns as it collected increasing amounts of user data.
 
-**Suggested Graphic:** A photograph of Google's original garage office in Menlo Park, or a screenshot of Google's clean, minimalist homepage from 1998, contrasting with the cluttered portal designs that dominated at the time.
 
 ## 2001: Wikipedia Launches
 **Description:** On January 15, 2001, Jimmy Wales and Larry Sanger launched Wikipedia as a free, collaborative encyclopedia that anyone could edit. Based on wiki software that allowed easy collaborative editing, the platform grew from a complement to the expert-written Nupedia into the world's largest reference work, with millions of volunteer-created articles in hundreds of languages.
@@ -70,7 +62,6 @@
 
 **Ethical/Societal Concern:** Wikipedia's open editing model raised persistent questions about accuracy, reliability, and the potential for misinformation in collaborative knowledge platforms. It also exposed tensions between expert and amateur knowledge production and highlighted challenges in representing diverse perspectives.
 
-**Suggested Graphic:** A screenshot of Wikipedia's homepage from its early days, or a visualization showing the growth of articles/contributors over its first few years.
 
 ## 2004: Facebook Launches
 **Description:** Harvard sophomore Mark Zuckerberg launched "TheFacebook" from his college dorm room on February 4, 2004. Initially restricted to Harvard students, the social networking service gradually expanded to other universities before opening to the general public in 2006, eventually growing into the world's largest social media platform with billions of users.
@@ -79,7 +70,6 @@
 
 **Ethical/Societal Concern:** Facebook introduced unprecedented privacy challenges and began the era of surveillance capitalism through systematic data collection about users' social connections, preferences, and behaviors. Its algorithmic curation of content would later raise concerns about filter bubbles, political polarization, and mental health impacts.
 
-**Suggested Graphic:** A screenshot of the original "TheFacebook" homepage with its blue header and simple registration form, or a photograph of Zuckerberg in the Harvard dorm room where he created the platform.
 
 ## 2007: iPhone Released
 **Description:** On January 9, 2007, Apple CEO Steve Jobs unveiled the first iPhone, combining phone functionality with internet access and application capabilities in a revolutionary touchscreen device. Released to the public in June 2007, the iPhone featured a full web browser experience rather than the limited "mobile web" common at the time.
