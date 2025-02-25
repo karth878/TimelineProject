@@ -5,7 +5,7 @@
 
 **Impact:** This milestone created the technical foundation for all future digital networking, establishing the revolutionary concept of decentralized computer communication. ARPANET demonstrated that computers could share resources across vast distances, fundamentally changing how information could be exchanged.
 
-**Ethical/Societal Concern:** ARPANET was initially designed and funded for military purposes during the Cold War, raising early questions about the military-industrial complex's role in technological innovation and the dual-use nature of communication technologies.
+**Ethical/Societal Concern:** ARPNET was initially designed and funded for military purposes during the Cold War, raising early questions about the military-industrial complex's role in technological innovation and the dual-use nature of communication technologies.
 
 
 ## 1971: First Email Sent
